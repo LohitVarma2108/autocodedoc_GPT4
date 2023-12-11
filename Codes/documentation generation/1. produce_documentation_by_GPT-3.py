@@ -7,7 +7,7 @@ import time
 import random
 from time import sleep
 import regex as re
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 
 client = OpenAI()
